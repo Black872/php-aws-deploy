@@ -13,8 +13,8 @@ echo '<p style="color: gold">
 echo '<br>Server IP:'.$_SERVER['SERVER_ADDR'];
 ?>
 <br>
-Version 3.0
-<font color="gold"><h1>Hello From Canada!</h1></font>
+Version 3.1
+<font color="gold"><h1>Hello From Ukraine!</h1></font>
 </center>
 </body>
 </html>
